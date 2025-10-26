@@ -259,7 +259,7 @@ max_personal_quests_per_day: 5      # Макс. персональных зад�
 
 **Алиасы к командам:**
 
-- `/neosinon`
+- `/neosimon`
 - `/simon`
 - `/quest`
 
@@ -373,5 +373,6 @@ logging:
   # Формат логов
   format: "[%date% %time%] [%level%] %message%"
 ```
+
 
 
